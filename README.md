@@ -17,11 +17,13 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
   
- ##
+  ##
  
  <div> 
   <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-marcondes-2683a51ab/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://lucas-rm.github.io/Portfolio/"><img height="30" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label" target="_blank"></a>    
+   <a href="https://lucas-rm.github.io/Portfolio/"><img height="30" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label" target="_blank"></a> 
+   
    ![Snake animation](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)
+   
 </div>

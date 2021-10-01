@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Lucas Marcondes 👋
 
-* 🎓 Formado no Curso Técnico de Informática no CEAP.
+* 🎓 Formado no Curso **Técnico de Informática** no CEAP.
 
 <div align="center">
   <a href="https://github.com/Lucas-RM">
@@ -22,7 +22,7 @@
  <div> 
   <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-marcondes-2683a51ab/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://lucas-rm.github.io/Portfolio/"><img height="30" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label" target="_blank"></a> 
+   <a href="https://lucas-rm.github.io/Portfolio/"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label" target="_blank"></a> 
    
    ![Snake animation](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)
    

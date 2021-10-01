@@ -6,6 +6,7 @@
   <a href="https://github.com/Lucas-RM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
  <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   
   ##
  
- <div> 
+<div> 
   <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-marcondes-2683a51ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://lucas-rm.github.io/Portfolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 

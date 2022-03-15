@@ -24,7 +24,7 @@
 <div> 
   <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-marcondes-2683a51ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://lucas-rm.github.io/Portfolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
+   <a href="https://lucas-rm.github.io/Portifolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
    
    ![Snake animation](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)
    

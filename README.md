@@ -1,5 +1,6 @@
 ## Oiii! Eu sou o Lucas Marcondes 👋
 
+* 👨‍💻 Estudante de Ciência da Computação na Unip
 * 🎓 Formado no Curso **Técnico de Informática** no CEAP.
 
 <div align="center">

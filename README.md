@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-RM">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -25,8 +25,11 @@
 <div> 
   <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-marcondes01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://lucas-rm.github.io/Portifolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
-   
-   ![Snake animation](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)
-   
+  <a href="https://lucas-rm.github.io/Portifolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake.svg">
+</picture>

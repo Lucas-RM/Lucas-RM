@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-RM">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&repo=github-readme-stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&repo=github-readme-stats&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -28,8 +28,4 @@
   <a href="https://lucas-rm.github.io/Portifolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-RM/Lucas-RM/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![snake-gif](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)

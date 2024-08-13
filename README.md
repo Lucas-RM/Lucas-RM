@@ -1,11 +1,10 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/user-attachments/assets/3c133251-d134-4dea-ba64-ea353943d4d8">
-
 <div>
   <h1>
     <a href="https://lucas-rm.github.io/Portifolio">
       <img align="center" alt="Logo Lucas Marcondes" width="36px" src="https://github.com/user-attachments/assets/33c0bc42-2395-43c8-97f9-c5b40af879bf">
     </a>
     <span>Lucas Marcondes</span>
+    <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/user-attachments/assets/3c133251-d134-4dea-ba64-ea353943d4d8">
   </h1>
   <div>
     <ul>

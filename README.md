@@ -1,3 +1,5 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/user-attachments/assets/3c133251-d134-4dea-ba64-ea353943d4d8">
+
 <div>
   <h1>
     <a href="https://lucas-rm.github.io/Portifolio">
@@ -5,7 +7,6 @@
     </a>
     <span>Lucas Marcondes</span>
   </h1>
-  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="350" src="https://github.com/user-attachments/assets/3c133251-d134-4dea-ba64-ea353943d4d8">
   <div>
     <ul>
       <li>👨‍💻 Estudante de <b>Ciência da Computação</b> na Unip</li>

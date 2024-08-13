@@ -15,13 +15,21 @@
   </div>
 </div>
 
+### Links
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-marcondes01)
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:lucas.marcondes36@gmail.com?subject=%27subject%20text%27)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://lucas-rm.github.io/Portifolio/)
+
+---
+
 ### GitHub Stats & Most Used Languages
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-RM&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&repo=github-readme-stats&hide_title=true&layout=compact&langs_count=7&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight")
 
-### Linguagens
+---
 
 <div>
   <p>
@@ -30,11 +38,3 @@
     </a>
   </p>
 </div>
-  
----
-
-### Links
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-marcondes01)
-[![Portfolio](https://skillicons.dev/icons?i=gmail)](mailto:lucas.marcondes36@gmail.com?subject=%27subject%20text%27)
-[![Portfolio](https://skillicons.dev/icons?i=github)](https://lucas-rm.github.io/Portifolio/)

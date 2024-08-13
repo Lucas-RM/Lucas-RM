@@ -1,31 +1,40 @@
-## Oiii! Eu sou o Lucas Marcondes 👋
+<div>
+  <h1>
+    <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://github.com/user-attachments/assets/3c133251-d134-4dea-ba64-ea353943d4d8">
+    <a href="https://lucas-rm.github.io/Portifolio">
+      <img align="center" alt="Logo Lucas Marcondes" width="36px" src="https://github.com/user-attachments/assets/33c0bc42-2395-43c8-97f9-c5b40af879bf">
+    </a>
+    <span>Lucas Marcondes</span>
+  </h1>
 
-* 👨‍💻 Estudante de Ciência da Computação na Unip
-* 🎓 Formado no Curso **Técnico de Informática** no CEAP.
-
-<div align="center">
-  <a href="https://github.com/Lucas-RM">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-RM&repo=github-readme-stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&repo=github-readme-stats&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <div>
+    <ul>
+      <li>👨‍💻 Estudante de <b>Ciência da Computação</b> na Unip</li>
+      <li>🎓 Formado no Curso <b>Técnico de Informática</b> no CEAP.</li>
+    </ul>
+  </div>
 </div>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+### GitHub Stats & Most Used Languages
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-RM&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&repo=github-readme-stats&hide_title=true&layout=compact&langs_count=7&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight")
+
+### Linguagens
+
+<div>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,js,nodejs,arduino,html,css,git" />
+    </a>
+  </p>
 </div>
   
-  ##
- 
-<div> 
-  <a href="mailto:lucas.marcondes36@gmail.com?subject='Informe um título aqui...'" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-marcondes01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://lucas-rm.github.io/Portifolio/" target="_blank"><img height="28" alt="site-portfolio" src="https://badgen.net/badge/icon/PORTFOLIO?icon=pleroma&label"></a> 
-</div>
+---
 
-![snake-gif](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)
+### Links
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-marcondes01)
+[![Portfolio](https://skillicons.dev/icons?i=gmail)](mailto:lucas.marcondes36@gmail.com?subject=%27subject%20text%27)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://lucas-rm.github.io/Portifolio/)

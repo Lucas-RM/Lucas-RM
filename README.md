@@ -22,11 +22,13 @@
 
 ---
 
+<br />
+
 ### GitHub Stats & Most Used Languages
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-RM&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Lucas-RM&bg_color=000&theme=tokyonight&include_all_commits=false&count_private=false&border_radius=3&border_color=27B9E6&icon_color=253FE8"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-RM&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000000&border=27B9E6" alt="GitHub Streak"  width="400px" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-RM&repo=github-readme-stats&hide_title=true&layout=compact&langs_count=7&bg_color=000&title_color=253FE8&text_color=FFF&border_radius=3&border_color=27B9E6&icon_color=253FE8&theme=tokyonight")
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Lucas-RM&bg_color=000&langs_count=8&theme=tokyonight&border_radius=3&include_all_commits=false&count_private=false&icon_color=253FE8&layout=compact&border_color=27B9E6)
 
 ---
 

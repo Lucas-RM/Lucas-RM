@@ -18,11 +18,11 @@
   </div>
 </div>
 
-### Links
+### Meus Contatos
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-marcondes01)
-[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:lucas.marcondes36@gmail.com?subject=%27subject%20text%27)
-[![Portfolio](https://skillicons.dev/icons?i=github)](https://lucas-rm.github.io/Portifolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marcondes01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.marcondes36@gmail.com?subject=Olá%20Lucas!)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portfolio-lucasrm.vercel.app/)
 
 ---
 

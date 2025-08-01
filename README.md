@@ -42,4 +42,4 @@
   </p>
 </div>
 
-![snake gif](https://github.com/lucas-rm/lucas-rm/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lucas-RM/Lucas-RM/blob/output/github-contribution-grid-snake.svg)

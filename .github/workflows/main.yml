@@ -2,28 +2,35 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
+
+permissions:
+  contents: write # Permissão para enviar arquivos gerados
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the repo
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Gerar cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: Lucas-RM
           outputs: |
             ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./output/github-contribution-grid-snake.gif
+            ./output/github-contribution-grid-snake-dark.gif?palette=github-dark
 
-      - name: Push to GitHub
+      - name: Commit e push para o branch output
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generate contribution snake"
-          git push
+          git config --global user.name "Lucas Marcondes"
+          git config --global user.email "lucas.marcondes36@gmail.com"
+          git checkout -B output
+          git add -A
+          git commit -m "Atualiza snake animation"
+          git push origin output --force

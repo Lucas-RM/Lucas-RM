@@ -32,4 +32,4 @@ jobs:
           git config --global user.email "lucas.marcondes36@gmail.com"
           git add .
           git commit -m "Atualiza snake animation"
-          git push origin output --force
+          git push origin main --force
